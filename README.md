@@ -1,4 +1,4 @@
-# Pencile Sketch
-Pencile Sketch using OpenCV
+# Pencil Sketch
+Pencil Sketch using OpenCV
 
 Use pip install opencv-python to install OpenCV
